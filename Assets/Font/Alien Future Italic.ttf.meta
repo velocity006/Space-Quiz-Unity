@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5ddf6ca8e1d2bc74e8c10186f63feed2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien Future
+  fontNames:
+  - Alien Future
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b60e5f71e918974448fe80dd525ea6a4, type: 3}
+  - {fileID: 12800000, guid: 74ae66827a10f714e8e13abc7e471bac, type: 3}
+  - {fileID: 12800000, guid: 09d7eb971a08a1f4d9b24d865c0c3351, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
